@@ -63,6 +63,15 @@
       },
       "skills": {
         "name": "Skills"
+      },
+      "initiativeroll": {
+        "name": "Roll Initiative"
+      },
+      "charactersheet": {
+        "name": "Open Character Sheet"
+      },
+      "minimize": {
+        "name": "Minimize"
       }
     },
     "items": {

@@ -63,6 +63,15 @@
       },
       "skills": {
         "name": "Habilidades"
+      },
+      "initiativeroll": {
+        "name": "Tirar iniciativa"
+      },
+      "charactersheet": {
+        "name": "Abrir hoja de personaje"
+      },
+      "minimize": {
+        "name": "Minimizar"
       }
     },
     "items": {

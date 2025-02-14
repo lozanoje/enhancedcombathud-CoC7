@@ -50,19 +50,19 @@ Hooks.on("argonInit", (CoreHUD) => {
               {
                 id: "roll-initiative",
                 icon: "fas fa-dice-d20",
-                label: "Roll Initiative",
+                label: `${game.i18n.localize("enhancedcombathud-CoC7.hud.initiativeroll.name")}`,
                 onClick: (e) => this.rollInitiative({ rerollInitiative: true, createCombatants: true })
               },
               {
                 id: "open-sheet",
                 icon: "fas fa-suitcase",
-                label: "Open Character Sheet",
+                label: `${game.i18n.localize("enhancedcombathud-CoC7.hud.charactersheet.name")}`,
                 onClick: (e) => this.actor.sheet.render(true)
               },
               {
                 id: "toggle-minimize",
                 icon: "fas fa-caret-down",
-                label: "Minimize",
+                label: `${game.i18n.localize("enhancedcombathud-CoC7.hud.minimize.name")}`,
                 onClick: (e) => ui.ARGON.toggleMinimize()
               }
             ];
