@@ -36,6 +36,10 @@
       "ShowSkills": {
         "name": "Show skills button",
         "descrp": "If a button for skills should be shown in the action group"
+      },
+      "ShowSkillsWithAttribs": {
+        "name": "Show skills with Attributes",
+        "descrp": "Show skills in the Attributes drowdown"
       }
     },
     "hud": {
@@ -71,7 +75,7 @@
         "desc": ""
       },
       "CthulhuMythosCheck": {
-        "name": "Chtulhu Mythos Check",
+        "name": "Cthulhu Mythos Check",
         "desc": ""
       },
       "DodgeCheck": {
@@ -83,56 +87,56 @@
         "desc": "Opens/closes the attribute & skill menu"
       },
       "AcademicSkills": {
-        "name": "Academic Skills",
-        "desc": ""
+        "name": "Academic",
+        "desc": "Academic Skills"
       },
       "ArtCraftSkills": {
-        "name": "Art and Craft Skills",
-        "desc": ""
+        "name": "Art and Craft",
+        "desc": "Art and Craft Skills"
       },
       "AthleticSkills": {
-        "name": "Athletic Skills",
-        "desc": ""
+        "name": "Athletic",
+        "desc": "Athletic Skills"
       },
       "DeceiveSkills": {
-        "name": "Deceive Skills",
-        "desc": ""
+        "name": "Deceive",
+        "desc": "Deceive Skills"
       },
       "MedicalSkills": {
-        "name": "Medical Skills",
-        "desc": ""
+        "name": "Medical",
+        "desc": "Medical Skills"
       },
       "NatureTransportSkills": {
-        "name": "Nature and Transport Skills",
-        "desc": ""
+        "name": "Nature and Transport",
+        "desc": "Nature and Transport Skills"
       },
       "NoticeSkills": {
-        "name": "Notice Skills",
-        "desc": ""
+        "name": "Notice",
+        "desc": "Notice Skills"
       },
       "PsychologySkills": {
-        "name": "Psychological Skills",
-        "desc": ""
+        "name": "Psychological",
+        "desc": "Psychological Skills"
       },
       "ResearchSkills": {
-        "name": "Research Skills",
-        "desc": ""
+        "name": "Research",
+        "desc": "Research Skills"
       },
       "ScienceSkills": {
-        "name": "Science Skills",
-        "desc": ""
+        "name": "Science",
+        "desc": "Science Skills"
       },
       "SocialSkills": {
-        "name": "Social Skills",
-        "desc": ""
+        "name": "Social",
+        "desc": "Social Skills"
       },
       "StealthSkills": {
-        "name": "Stealth Skills",
-        "desc": ""
+        "name": "Stealth",
+        "desc": "Stealth Skills"
       },
       "TechnologySkills": {
-        "name": "Technological Skills",
-        "desc": ""
+        "name": "Technological",
+        "desc": "Technological Skills"
       }
     },
     "types": {
@@ -143,28 +147,28 @@
     },
     "CHARAC": {
       "STR": {
-        "tooltip": ""
+        "tooltip": "Strength"
       },
       "CON": {
-        "tooltip": ""
+        "tooltip": "Constitution"
       },
       "SIZ": {
-        "tooltip": ""
+        "tooltip": "Size"
       },
       "DEX": {
-        "tooltip": ""
+        "tooltip": "Dexterity"
       },
       "APP": {
-        "tooltip": ""
+        "tooltip": "Appareance"
       },
       "INT": {
-        "tooltip": ""
+        "tooltip": "Intelligence"
       },
       "POW": {
-        "tooltip": ""
+        "tooltip": "Power"
       },
       "EDU": {
-        "tooltip": ""
+        "tooltip": "Education"
       }
     },
     "tooltip": {

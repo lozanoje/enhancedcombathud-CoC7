@@ -1,0 +1,205 @@
+{
+  "enhancedcombathud-CoC7": {
+    "portraitConfig": {
+      "prepared": {
+        "label": "Hechizos preparados",
+        "auto": "Autodetectar",
+        "preparedOnly": "Solo preparados",
+        "all": "Todos los hechizos"
+      }
+    },
+    "Settings": {
+      "switchEquip": {
+        "name": "Autoequipar",
+        "hint": "Equipar/desequipar objetos cuando se cambie de conjunto"
+      },
+      "showWeaponsItems": {
+        "name": "Mostrar armas en la sección 'Usar objeto'",
+        "hint": "Mostrar armas en la sección 'Usar objeto'. Es útil si no se tienen suficientes huecos de armas"
+      },
+      "showClassActions": {
+        "name": "Mostrar acciones de clase",
+        "hint": "Mostrar acciones de clase en las barras de acciones principales"
+      },
+      "condenseClassActions": {
+        "name": "Recoger acciones de clase",
+        "hint": "Si se habilita 'Mostrar acciones de clase', recoger las acciones de clase en parejas para ahorrar espacio"
+      },
+      "noAA": {
+        "name": "No aplicar efectos activos",
+        "hint": "No aplicar efectos activos cuando se usen acciones especiales (requiere refrescar)"
+      },
+      "showSpecialActions": {
+        "name": "Mostrar acciones básicas",
+        "hint": "Mostrar acciones básicas en la sección de acciones principales (esquivar, correr, destrabar, ocultar, preparar, empujar)"
+      },
+      "ShowSkills": {
+        "name": "Mostrar botón de habilidades",
+        "descrp": "Si se debe mostrar un botón de habilidades en el grupo de acciones"
+      },
+      "ShowSkillsWithAttribs": {
+        "name": "Mostrar habilidades en las características",
+        "descrp": "Muestra las habilidades en el menú de características"
+      }
+    },
+    "hud": {
+      "actions": {
+        "name": "Acción"
+      },
+      "useitem": {
+        "name": "Usar objeto"
+      },
+      "specialaction": {
+        "name": "Gratis"
+      },
+      "pass": {
+        "name": "Pasar"
+      },
+      "endturn": {
+        "name": "Fin turno"
+      },
+      "inventory": {
+        "name": "Hoja"
+      },
+      "skills": {
+        "name": "Habilidades"
+      }
+    },
+    "items": {
+      "SanityCheck": {
+        "name": "Tirar Cordura",
+        "desc": ""
+      },
+      "LuckCheck": {
+        "name": "Tirar Suerte",
+        "desc": ""
+      },
+      "CthulhuMythosCheck": {
+        "name": "Tirar Mitos de Cthulhu",
+        "desc": ""
+      },
+      "DodgeCheck": {
+        "name": "Tirar Esquivar",
+        "desc": ""
+      },
+      "Skills": {
+        "name": "Habilidades",
+        "desc": "Abre/cierra el menú de habilidades y características"
+      },
+      "AcademicSkills": {
+        "name": "Académicas",
+        "desc": "Habilidades académicas"
+      },
+      "ArtCraftSkills": {
+        "name": "Artes y oficios",
+        "desc": "Habilidades de artes y oficios"
+      },
+      "AthleticSkills": {
+        "name": "Atléticas",
+        "desc": "Habilidades atléticas"
+      },
+      "DeceiveSkills": {
+        "name": "Engaño",
+        "desc": "Habilidades de engaño"
+      },
+      "MedicalSkills": {
+        "name": "Médicas",
+        "desc": "Habilidades médicas"
+      },
+      "NatureTransportSkills": {
+        "name": "Transporte y naturaleza",
+        "desc": "Habilidades de transporte y naturaleza"
+      },
+      "NoticeSkills": {
+        "name": "Percepción",
+        "desc": "Habilidades de percepción"
+      },
+      "PsychologySkills": {
+        "name": "Psicológicas",
+        "desc": "Habilidades psicológicas"
+      },
+      "ResearchSkills": {
+        "name": "Investigación",
+        "desc": "Habilidades de investigación"
+      },
+      "ScienceSkills": {
+        "name": "Ciencias",
+        "desc": "Habilidades de ciencias"
+      },
+      "SocialSkills": {
+        "name": "Sociales",
+        "desc": "Habilidades sociales"
+      },
+      "StealthSkills": {
+        "name": "Sigilo",
+        "desc": "Habilidades de sigilo"
+      },
+      "TechnologySkills": {
+        "name": "Tecnológicas",
+        "desc": "Habilidades tecnológicas"
+      }
+    },
+    "types": {
+      "item": {
+        "item": "Usar objeto",
+        "weapon": "Usar arma"
+      }
+    },
+    "CHARAC": {
+      "STR": {
+        "tooltip": "Fuerza"
+      },
+      "CON": {
+        "tooltip": "Constitución"
+      },
+      "SIZ": {
+        "tooltip": "Tamaño"
+      },
+      "DEX": {
+        "tooltip": "Destreza"
+      },
+      "APP": {
+        "tooltip": "Apariencia"
+      },
+      "INT": {
+        "tooltip": "Inteligencia"
+      },
+      "POW": {
+        "tooltip": "Poder"
+      },
+      "EDU": {
+        "tooltip": "Educación"
+      }
+    },
+    "tooltip": {
+      "target": {
+        "name": "Objetivo"
+      },
+      "range": {
+        "name": "Alcance"
+      },
+      "properties": {
+        "name": "Propiedades"
+      },
+      "toHit": {
+        "name": "Impacto"
+      },
+      "damage": {
+        "name": "Daño"
+      }
+    },
+    "skillProperties": {
+      "push": "Forzar",
+      "special": "Especial",
+      "firearm": "Arma de fuego",
+      "fighting": "Combatir",
+      "combat": "Combate",
+      "noadjustments": "Sin ajustes",
+      "noxpgain": "No ganancia PE",
+      "requiresname": "Nombre requerido",
+      "keepbasevalue": "Mantener valor base",
+      "onlyone": "Solo uno",
+      "picknameonly": "Solo escoger nombre"
+    }
+  }
+}
